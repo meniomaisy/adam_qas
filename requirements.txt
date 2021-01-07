@@ -1,6 +1,6 @@
 elasticsearch==7.0.2
 gensim==3.7.3
-lxml==4.3.4
+lxml==4.6.2
 pandas==0.24.2
 requests==2.22.0
 spaCy==2.1.4
