@@ -6,7 +6,7 @@ requests==2.22.0
 spaCy==2.1.4
 scikit-learn==0.21.2
 dill==0.2.9
-joblib==0.13.2
+joblib==1.2.0
 
 ############## spaCy language models ################
 
